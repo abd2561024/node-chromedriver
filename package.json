@@ -30,9 +30,9 @@
     "install": "node install.js"
   },
   "dependencies": {
-    "adm-zip": "^0.4.7",
-    "kew": "^0.7.0",
-    "mkdirp": "^0.5.1",
-    "rimraf": "^2.5.4"
+    "adm-zip": "0.4.7",
+    "kew": "0.7.0",
+    "mkdirp": "0.5.1",
+    "rimraf": "2.5.4"
   }
 }
